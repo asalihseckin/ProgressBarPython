@@ -7,7 +7,7 @@
         <x>0</x>
         <y>0</y>
         <width>300</width>
-        <height>200</height>
+        <height>50</height>
       </rect>
     </property>
     <property name="windowTitle">
@@ -23,7 +23,7 @@
           </widget>
         </item>
         <item>
-          <widget class="QLineEdit" name="dosyaSayisiEdit" readonly="true"/>
+          <widget class="QLabel" name="dosyaSayisiEdit" readonly="true"/>
         </item>
         <item>
           <widget class="QPushButton" name="startButton">
